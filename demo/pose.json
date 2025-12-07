@@ -1,0 +1,134 @@
+[
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/aQVLCO-OOqM-11-1-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/5451cefde53f06f1.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/Msw3A5IPPD0-96-0-yaw_pitch_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/N99hmkAJwlQ-3-0-linear_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/38f7ba7fd9a83069.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/20e7a3651ec30386.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/1jVPI3bNCBc-5-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/HTdKkiu771g-3-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/YUPoNo1j420-5-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/aQVLCO-OOqM-11-1-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/5451cefde53f06f1.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/Msw3A5IPPD0-96-0-yaw_pitch_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/N99hmkAJwlQ-3-0-linear_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/38f7ba7fd9a83069.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/20e7a3651ec30386.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/1jVPI3bNCBc-5-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/HTdKkiu771g-3-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/YUPoNo1j420-5-0-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    }
+]

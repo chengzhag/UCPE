@@ -1,0 +1,164 @@
+[
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/aQVLCO-OOqM-11-1-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/aQVLCO-OOqM-11-1-no_rot_aug_0.npy",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy golden dog resting on a garden stone wall surrounded by blooming flowers, gazing curiously toward the garden with its ears gently perked and fur glowing in the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy golden dog lying on a garden stone wall surrounded by blooming flowers, calmly watching the garden with gentle eyes as warm golden sunlight filters through the leaves and soft shadows move across its fur."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A fluffy gray cat lounging on a garden stone wall surrounded by blooming flowers, as the camera moves in a smooth clockwise arc around it, capturing the cat’s curious gaze, swaying tail, and the warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful gray cat leaping from a garden stone wall, its eyes focused ahead and body stretched midair as petals and dust swirl around in warm golden sunlight filtering through the leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A playful golden dog leaping from a garden stone path, its gaze focused ahead as petals swirl through the air and warm sunlight glows on its fur amid softly illuminated leaves."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A curious orange cat resting on a sunlit wooden table beside a window, with warm afternoon light streaming across its fur and soft shadows on the polished surface, surrounded by a few open books and green houseplants that gently frame the cozy, golden-lit room."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/f74139ac48f19b3c.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "A gentle brown dog resting on a sunlit wooden floor beside a window, with warm afternoon light streaming across its fur and soft shadows stretching over the polished surface, surrounded by a few open books and green houseplants that frame the cozy, golden-lit room."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/5451cefde53f06f1.txt",
+        "x_fov": 100.0,
+        "xi": 0.0,
+        "caption": "Aerial view ascending through a dense cityscape of tall glass skyscrapers and steel towers, with sunlight glinting off reflective windows and rooftop details gradually unfolding, revealing layered streets, terraces, and the vast geometry of the urban skyline ahead."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/Msw3A5IPPD0-96-0-yaw_pitch_aug_0.npy",
+        "x_fov": 120.0,
+        "xi": 0.0,
+        "caption": "Aerial drone view gliding over a historic European-style town with stone buildings, terracotta rooftops, and narrow winding streets, where soft golden light reveals weathered walls, old clock towers, and quiet courtyards, conveying the timeless charm and layered history of the place."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/Msw3A5IPPD0-96-0-yaw_pitch_aug_0.npy",
+        "x_fov": 120.0,
+        "xi": 0.0,
+        "caption": "Aerial drone view soaring above a dense green forest with tall trees of varying heights and winding trails, as a clear river weaves through the landscape reflecting sunlight between the branches, revealing the depth, texture, and gentle rhythm of the forest stretching across rolling hills."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/Msw3A5IPPD0-96-0-yaw_pitch_aug_0.npy",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A low aerial drone view gliding just above the treetops of a dense forest, weaving through layers of tall and short trees as a winding river glimmers between them, with sunlight flickering across leaves and water, revealing shifting textures, flowing shadows, and the serene rhythm of the landscape over rolling green hills."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A close-up ground-level view following a cat walking slowly through tall green grass, its tail swaying as it occasionally turns its head toward the camera with a curious gaze, while sunlight glimmers through the leaves and soft shadows ripple across the ground."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A close-up ground-level view following a cat walking along a narrow forest path covered with fallen leaves and dappled sunlight, its tail swaying as it glances back toward the camera, while soft beams of light filter through the trees and gentle shadows move across the mossy ground."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A close-up ground-level view following a dog walking leisurely through tall green grass, its ears gently perked and tail wagging as it occasionally glances back toward the camera with a friendly gaze, while sunlight filters through the blades and soft shadows dance across the ground."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/ecc2b1b9cb1fa9ad.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A close-up ground-level view following a dog trotting along a sandy beach near the shoreline, its paws leaving prints in the wet sand as gentle waves roll in, sunlight glinting off the water and sea breeze rustling its fur while it occasionally looks back with a playful expression."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/N99hmkAJwlQ-3-0-linear_aug_0.npy",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A dramatic first-person drone view racing through a waterfall gorge where torrents crash between moss-covered cliffs and overhanging trees, with mist swirling, sunlight glinting off wet rocks and flowing water, and glimpses of ferns and boulders adding cinematic intensity."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/N99hmkAJwlQ-3-0-linear_aug_0.npy",
+        "x_fov": 180.0,
+        "xi": 2.0,
+        "caption": "A high-speed first-person drone view diving through a narrow gorge where a powerful waterfall crashes between moss-covered rocks and tall trees cling to the cliffs, with mist swirling through the air and sunlight scattering off droplets as the roaring water fills the scene with energy and depth."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/N99hmkAJwlQ-3-0-yaw_aug_0.npy",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A daytime first-person dashcam view driving along a city street with moderate traffic, showing cars and trucks ahead moving between lane markings, with roadside buildings, power lines, and trees under a partly cloudy sky as soft sunlight and shadows drift across the road."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/38f7ba7fd9a83069.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A first-person dashcam view from inside a car looking through the windshield while approaching an intersection on a sunny afternoon, smoothly turning right onto a quiet tree-lined street with parked cars and small shops, as sunlight filters through the leaves and reflections glide across the glass."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/38f7ba7fd9a83069.txt",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A daytime dashcam view driving along a suburban street under a partly cloudy sky, with rows of cars ahead moving slowly in traffic, white pickup trucks and sedans lining both lanes, power lines stretching overhead, and trees and low buildings framing the road in soft sunlight."
+    },
+    {
+        "pose_path": "data/RealEstate10k/pose_files/test/20e7a3651ec30386.txt",
+        "x_fov": 200.0,
+        "xi": 2.3,
+        "caption": "A first-person view moving through a large warehouse with tall shelves and stacked boxes, illuminated by cool fluorescent lights, before coming to a steady stop in front of a metal rack filled with labeled packages, as faint echoes, reflections, and mechanical ambience fill the quiet industrial space."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/1jVPI3bNCBc-5-0-no_rot_aug_0.npy",
+        "x_fov": 200.0,
+        "xi": 2.3,
+        "caption": "A first-person view moving through a large warehouse with tall shelves and stacked boxes, illuminated by cool fluorescent lights, before coming to a steady stop in front of a metal rack filled with labeled packages, as faint echoes, reflections, and mechanical ambience fill the quiet industrial space."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/HTdKkiu771g-3-0-no_rot_aug_0.npy",
+        "x_fov": 200.0,
+        "xi": 2.3,
+        "caption": "A time-lapse view from an airplane window at night, showing the wing silhouetted against the glowing Milky Way that slowly rotates above the horizon, while a vast sea of clouds drifts below like rolling waves, illuminated by faint starlight and distant lightning flashes that shimmer across the metallic surface of the wing."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/YUPoNo1j420-5-0-no_rot_aug_0.npy",
+        "x_fov": 200.0,
+        "xi": 2.3,
+        "caption": "A time-lapse view from an airplane window at night, showing the wing silhouetted against the glowing Milky Way that slowly rotates above the horizon, while a vast sea of clouds drifts below like rolling waves, illuminated by faint starlight and distant lightning flashes that shimmer across the metallic surface of the wing."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/HTdKkiu771g-3-0-no_rot_aug_0.npy",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A time-lapse night view from the foot of a snow-covered mountain, with towering pine trees in the foreground and the majestic peak centered in the frame, as the Milky Way arches slowly across the sky, casting faint light over the snowy slopes and shimmering through the crisp, clear mountain air."
+    },
+    {
+        "pose_path": "data/UCPE/PanShot/pose-test/YUPoNo1j420-5-0-no_rot_aug_0.npy",
+        "x_fov": 160.0,
+        "xi": 1.5,
+        "caption": "A time-lapse night view from the foot of a snow-covered mountain, with towering pine trees in the foreground and the majestic peak centered in the frame, as the Milky Way arches slowly across the sky, casting faint light over the snowy slopes and shimmering through the crisp, clear mountain air."
+    }
+]

@@ -1,0 +1,24 @@
+[build-system]
+requires = [
+  "numpy",
+  "setuptools",
+  "torch",
+  "torchvision",
+  "wheel",
+]
+[tool.black]
+line_length = 80
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | github2pypi
+)/
+'''
