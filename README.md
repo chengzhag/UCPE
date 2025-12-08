@@ -3,9 +3,9 @@
 ### Unified Camera Positional Encoding for Controlled Video Generation
 Cheng Zhang, Boying Li, Meng Wei, Yan-Pei Cao, Camilo Cruz Gambardella, Dinh Phung, Jianfei Cai
 
-### [Paper (Coming Soon!)]() | [Video](https://youtu.be/HVgpsOtcIyI)
+### [Paper (Coming Soon!)]() | [Video](https://youtu.be/DogzWyoVBEs)
 
-[![Watch the video](images/thumbnail.png)](https://www.youtube.com/watch?v=HVgpsOtcIyI)
+[![Watch the video](images/thumbnail.png)](https://youtu.be/DogzWyoVBEs)
 *Our UCPE introduces a geometry-consistent alternative to Plücker rays as one of the core contributions, enabling better generalization in Transformers and offering a foundation for future camera-aware architectures.
 
 ## 🚀 TLDR
