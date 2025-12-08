@@ -1,7 +1,7 @@
 # 📷 UCPE
 
 ### Unified Camera Positional Encoding for Controlled Video Generation
-Cheng Zhang, Boying Li, Meng Wei, YanPei Cao, Camilo Cruz Gambardella, Dinh Phung, Jianfei Cai
+Cheng Zhang, Boying Li, Meng Wei, Yan-Pei Cao, Camilo Cruz Gambardella, Dinh Phung, Jianfei Cai
 
 ### [Paper (Coming Soon!)]() | [Video](https://youtu.be/HVgpsOtcIyI)
 
