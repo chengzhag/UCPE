@@ -43,6 +43,6 @@ The generated videos will be saved in `logs/6wodf04s/demo`.
 
 ## 💡 Acknowledgements
 
-Our paper cannot be completed without the amazing open-source projects [Wan2.1](https://github.com/Wan-Video/Wan2.1), [AC3D](https://github.com/snap-research/ac3d), [ReCamMaster](https://github.com/KlingTeam/ReCamMaster), [CameraCtrl](https://github.com/hehao13/CameraCtrl)...
+Our paper cannot be completed without the amazing open-source projects [Wan2.1](https://github.com/Wan-Video/Wan2.1), [AC3D](https://github.com/snap-research/ac3d), [ReCamMaster](https://github.com/KlingTeam/ReCamMaster), [CameraCtrl](https://github.com/hehao13/CameraCtrl), [prope](https://github.com/liruilong940607/prope), [vllm](https://github.com/vllm-project/vllm), [stella_vslam](https://github.com/stella-cv/stella_vslam)...
 
 Also check out our Pan-Series works [PanFlow](https://github.com/chengzhag/PanFlow), [PanFusion](https://github.com/chengzhag/PanFusion) and [PanSplat](https://github.com/chengzhag/PanSplat) towards 3D scene generation with panoramic images!
